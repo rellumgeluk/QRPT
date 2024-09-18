@@ -285,10 +285,10 @@ var AsciiMorph = (function() {
   
   setTimeout(function() {
     AsciiMorph.morph(asciis[1]);
-  }, 2000);
+  }, 1000);
   
   setInterval(function() {
     AsciiMorph.morph(asciis[currentIndex]);
     currentIndex++;
     currentIndex%= asciis.length;
-  }, 4000);
+  }, 2500);
