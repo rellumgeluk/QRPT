@@ -64,12 +64,12 @@ body {
   }
 
   .message-text h1 {
-      font-size: 19px; 
-      margin: 5px;
+      font-size: 20px; 
+      margin: 0;
   }
 
   .message-text p {
-      font-size: 15px; 
+      font-size: 16px; 
       line-height: 1.4; 
   }
 }
