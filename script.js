@@ -1,7 +1,3 @@
-/**
- * Ascii Morph
- * @author: Tim Holman
- */
 
 var AsciiMorph = (function() {
 
