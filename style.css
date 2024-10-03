@@ -56,28 +56,3 @@ body {
     line-height: 1.6;
     color: #f0f0f0;
 }
-
-@media (max-width: 768px) {
-  .morph-section {
-      width: 300px;
-      height: 300px;
-      margin-top: -150px;
-      margin-left: -150px;
-  }
-
-  .info {
-      font-size: 12px;
-  }
-
-  .message-text {
-      max-width: 90%; 
-      padding: 15px;
-  }
-
-  .message-text h1 {
-      font-size: 28px; 
-  }
-
-  .message-text p {
-      font-size: 16px; 
-}
