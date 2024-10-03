@@ -28,3 +28,31 @@ body {
   a {
     color: #f9f9f9;
   }
+
+  .themessage-page {
+    background-color: black;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+
+.message-text {
+    text-align: center;
+    max-width: 800px;
+}
+
+.message-text h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.message-text p {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #f0f0f0;
+}
