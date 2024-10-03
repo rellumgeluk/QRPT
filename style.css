@@ -30,7 +30,7 @@ body {
   }
 
   .themessage-page {
-    background-color: black;
+    background-color: #222222;
     color: white;
     font-family: 'Courier New', Courier, monospace;
     height: 100vh;
@@ -52,7 +52,32 @@ body {
 }
 
 .message-text p {
-    font-size: 18px;
+    font-size: 17px;
     line-height: 1.6;
     color: #f0f0f0;
+}
+
+@media (max-width: 768px) {
+  .morph-section {
+      width: 300px;
+      height: 300px;
+      margin-top: -150px;
+      margin-left: -150px;
+  }
+
+  .info {
+      font-size: 12px;
+  }
+
+  .message-text {
+      max-width: 90%; 
+      padding: 15px;
+  }
+
+  .message-text h1 {
+      font-size: 28px; 
+  }
+
+  .message-text p {
+      font-size: 16px; 
 }
