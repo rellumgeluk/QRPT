@@ -65,6 +65,7 @@ body {
 
   .message-text h1 {
       font-size: 19px; 
+      margin: 5px;
   }
 
   .message-text p {
