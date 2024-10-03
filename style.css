@@ -57,7 +57,7 @@ body {
     color: #f0f0f0;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 668px) {
   .morph-section {
       width: 300px;
       height: 300px;
