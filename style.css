@@ -48,7 +48,7 @@ body {
 
 .message-text h1 {
     font-size: 36px;
-    margin-bottom: 5px;
+    margin-bottom: 20px;
 }
 
 .message-text p {
@@ -70,7 +70,7 @@ body {
 
   .message-text p {
       font-size: 18px; 
-      line-height: 1.4; 
+      line-height: 1.5; 
   }
 }
 
