@@ -75,11 +75,11 @@ body {
   }
 
   .message-text h1 {
-      font-size: 20px; 
+      font-size: 22px; 
   }
 
   .message-text p {
-      font-size: 13px; 
+      font-size: 14px; 
       line-height: 1.4; 
   }
 }
